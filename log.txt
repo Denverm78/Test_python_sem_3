@@ -1,0 +1,16 @@
+2023-09-05 20:01:20 INFO ====== WebDriver manager ======
+2023-09-05 20:01:21 INFO Get LATEST chromedriver version for google-chrome
+2023-09-05 20:01:21 INFO Get LATEST chromedriver version for google-chrome
+2023-09-05 20:01:21 INFO There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+2023-09-05 20:01:21 INFO Get LATEST chromedriver version for google-chrome
+2023-09-05 20:01:21 INFO WebDriver version 116.0.5845.96 selected
+2023-09-05 20:01:21 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-05 20:01:21 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-05 20:01:21 INFO Driver downloading response is 200
+2023-09-05 20:01:22 INFO Get LATEST chromedriver version for google-chrome
+2023-09-05 20:01:22 INFO Driver has been saved in cache [C:\Users\denve\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+2023-09-05 20:01:24 INFO Test2 Starting
+2023-09-05 20:01:24 INFO Send Roman83 to element //*[@id="login"]/div[1]/label/input
+2023-09-05 20:01:24 INFO Send 5a45102d64 to element //*[@id="login"]/div[2]/label/input
+2023-09-05 20:01:24 INFO Click login button
+2023-09-05 20:01:34 INFO Click login button
